@@ -21,11 +21,11 @@
 title: Sangwon Seo
 email: sseo@rice.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Ph.D. student in Computer Science at Rice University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SangwonSeo_
 github_username: sangwon-seo
+
 
 # Build settings
 theme: minima

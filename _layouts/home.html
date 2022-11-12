@@ -5,23 +5,20 @@ layout: default
 <div class="home">
 
   <div class="profile">
-      <div id="photo">
+      <div id="div1">
           <img src="/assets/images/sangwon_photo.jpg" alt="Sangwon Photo">
       </div>
-      <div id="about">
+      <div id="div2">
           <h1>Sangwon Seo</h1>
-          <h3>Ph.D. Student in Computer Science</h3>
-          <h3><a href="https://cs.rice.edu/">Rice University</a></h3>
+          <h3>Ph.D. Student in <a href="https://cs.rice.edu/">Computer Science</a></h3>
+          <h3><a href="https://www.rice.edu/">Rice University</a></h3>
           <p>Office: 3002 Duncan Hall</p>
           <p>E-mail: sseo@rice.edu</p>
       </div>
   </div>
 
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
-  {{ content }}
-
+  <div class="post-content">
+    {{ content }}
+  </div>
 
 </div>

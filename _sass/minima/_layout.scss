@@ -267,12 +267,12 @@
    padding: 10px;
 }
 
-#photo {
+#div1 {
   float:left; 
   margin-left: 0;
   width: 180px;
 }
-#about { 
+#div2 { 
   background-color: white;
   overflow:hidden;
   margin:10px;
@@ -285,12 +285,12 @@
   .profile div {
   padding: 0;
   }
-  #photo { 
+  #div1 { 
   float: none;
   margin-left: auto;
   margin-right: auto;
 }
-  #about {
+  #div2 {
   margin-top: 0;
   margin-bottom: 0;
   padding-left: 0;

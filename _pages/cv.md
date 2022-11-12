@@ -1,7 +1,9 @@
 ---
 layout: page
 title: CV
-permalink: /CV/
+permalink: /cv
 ---
-
+# Test
 [CV](/assets/misc/sangwon_cv.pdf)
+
+# Test2
