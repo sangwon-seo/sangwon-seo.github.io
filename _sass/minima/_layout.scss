@@ -265,6 +265,7 @@
 .profile div {
    min-height: 200px;
    padding: 10px;
+   line-height: 1.7em;
 }
 
 #div1 {
@@ -282,9 +283,6 @@
 
 
 @include media-query($on-palm) {
-  .profile div {
-  padding: 0;
-  }
   #div1 { 
   float: none;
   margin-left: auto;

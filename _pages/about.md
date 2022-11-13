@@ -2,13 +2,13 @@
 layout: home
 permalink: /
 ---
-## About
+### About
 I'm a Ph.D student in [Computer Science](https://cs.rice.edu/) working with [Dr. Vaibhav Unhelkar](https://profiles.rice.edu/faculty/vaibhav-unhelkar). I received M.S. degree in Bioengineering and B.S. degree in Electrical and Computer Engineering from [Seoul National University](https://en.snu.ac.kr/), South Korea. Before joining Rice, I worked as a research engineer at [Coreline Soft](https://www.corelinesoft.com/) - a medical software start-up - and [Agency for Defense Development](https://www.add.re.kr/eps) in South Korea. 
 
 Main theme of my research is improving human-AI teaming with computational and learning-based approaches.
 Technically, I am interested in modeling human behavior to enable AI agents to make decisions more human-centric and human-like; leveraging human knowledge in machine learning to be able to train models on small data; and developing optimal intervention strategies that combine both artificial intelligence and human intelligence to enhance human-human and human-AI teamwork.
 
-## Selected Publications
+### Selected Publications
 **Sangwon Seo** and Vaibhav V. Unhelkar,
 ["Semi-Supervised Imitation Learning of Team Policies from Suboptimal Demonstrations"](https://www.ijcai.org/proceedings/2022/0346.pdf),
 *IJCAI 2022*
