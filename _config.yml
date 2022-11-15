@@ -49,6 +49,3 @@ exclude:
   - node_modules/
   - vendor/
   - README.md
-
-# Google Analytics
-google_analytics: G-YMQNT6XY91
