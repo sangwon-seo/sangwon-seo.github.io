@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 ### Hello!
-I am a Ph.D student in [Computer Science](https://cs.rice.edu/) working with [Dr. Vaibhav Unhelkar](https://profiles.rice.edu/faculty/vaibhav-unhelkar). I received M.S. degree in Bioengineering and B.S. degree in Electrical and Computer Engineering from [Seoul National University](https://en.snu.ac.kr/), South Korea. Before joining [Rice University](https://www.rice.edu/), I worked as a research engineer at [Coreline Soft](https://www.corelinesoft.com/) - a medical software startup - and [Agency for Defense Development](https://www.add.re.kr/eps) - a national research institute - in South Korea. 
+I am a Ph.D student in [Computer Science](https://cs.rice.edu/) working with [Dr. Vaibhav Unhelkar](https://profiles.rice.edu/faculty/vaibhav-unhelkar). I received M.S. degree in Bioengineering and B.S. degree in Electrical and Computer Engineering from [Seoul National University](https://en.snu.ac.kr/), South Korea. Before joining [Rice University](https://www.rice.edu/), I worked as a research engineer at [Coreline Soft](https://www.corelinesoft.com/en/) - a medical software startup - and [Agency for Defense Development](https://www.add.re.kr/eps) - a national research institute - in South Korea. 
 
 My current research focus is on improving human-AI teaming with computational and learning-based approaches.
 Technically, I am interested in:
