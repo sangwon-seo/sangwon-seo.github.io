@@ -1,4 +1,5 @@
 - name: CV
-  link: /assets/sangwon_cv.pdf
+  link: https://www.overleaf.com/read/srgdswvrdnht
+  newtab: true
 - name: Posts
   link: /posts
