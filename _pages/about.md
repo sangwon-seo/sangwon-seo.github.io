@@ -18,7 +18,7 @@ Technically, I am interested in:
 *AAMAS 2023*
 
 **Sangwon Seo** and Vaibhav V. Unhelkar,
-["Semi-Supervised Imitation Learning of Team Policies from Suboptimal Demonstrations"](https://www.ijcai.org/proceedings/2022/0346.pdf),
+["Semi-Supervised Imitation Learning of Team Policies from Suboptimal Demonstrations"](https://arxiv.org/abs/2205.02959),
 *IJCAI 2022*
 
 **Sangwon Seo**, Lauren R. Kennedy-Metz, Marco A. Zenati, Julie A. Shah, Roger D. Dias, and Vaibhav V. Unhelkar,
