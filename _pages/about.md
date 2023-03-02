@@ -14,8 +14,8 @@ Technically, I am interested in:
 
 ### Selected Publications
 **Sangwon Seo**, Bing Han, and Vaibhav V. Unhelkar,
-"Automated Task-Time Interventions to Improve Teamwork using Imitation Learning",
-*AAMAS 2023* [to appear]
+["Automated Task-Time Interventions to Improve Teamwork using Imitation Learning"](https://arxiv.org/abs/2303.00413),
+*AAMAS 2023*
 
 **Sangwon Seo** and Vaibhav V. Unhelkar,
 ["Semi-Supervised Imitation Learning of Team Policies from Suboptimal Demonstrations"](https://www.ijcai.org/proceedings/2022/0346.pdf),
