@@ -27,9 +27,9 @@ During the study, you will be asked to complete collaborative tasks in simulated
 
 ### Participant Requirements
 The participant of this study should be:
-    1. At least 18 years old;
-    2. Proficient in English; and
-    3. Able to give valid informed consent.
+1. At least 18 years old;
+2. Proficient in English; and
+3. Able to give valid informed consent.
 
 ### Compensation
 Participants that complete the experiment will receive a $5 Amazon gift card. In addition, the person with the highest cumulative score will receive an additional gift card worth $5.
