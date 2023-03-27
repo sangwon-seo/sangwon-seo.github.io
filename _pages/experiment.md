@@ -7,7 +7,8 @@ permalink: /experiment
 
 ### Thank you for your interest in our research study on teamwork. This study is being conducted by [Human-Centered AI and Robotics Group](https://unhelkar.github.io/group/) at [Rice University](https://www.rice.edu/).
 
-### If you have received a USER ID for this study, **[<br /><font size="6"> please click here to start the experiment (link).</font>](http://35.164.191.72/)** 
+### If you have received your USER ID for this study, **[<br /><font size="6"> please click here to start the experiment (link).</font>](http://35.164.191.72/)** 
+### You should not share your USER ID with anyone else, since only one experiment session can be completed per ID.
 
 <br />
 
