@@ -10,7 +10,9 @@ permalink: /experiment
 <br />
 
 ==================================================
-## ~~Seeking Participants for a Web-based Research Study on Teamwork~~
+<details>
+<summary><font size="4"><s>Seeking Participants for a Web-based Research Study on Teamwork</s></font></summary> 
+<br />
 
 I am Sangwon Seo, a Ph.D. student in Computer Science at Rice University working with Prof. Vaibhav Unhelkar. We are seeking participants for a research study on collecting data of teamwork. The study will be conducted remotely (over the internet) and last around 25 minutes. If you are interested, please let me know (by sending an email to <sangwon.seo@rice.edu>) so we can send the link to the experiment webpage and create your ID for the experiment.
 
@@ -34,6 +36,4 @@ If you have any questions or concerns about this study at any point before, duri
 
 This research study has been reviewed and approved by Rice University Institutional Review Board. If you have concerns regarding this study or questions regarding your rights as a study participant, please contact the IRB Administrator at Rice University. Email: <irb@rice.edu> or Telephone: 713-348-3586.
 
-
-
-
+</details>
