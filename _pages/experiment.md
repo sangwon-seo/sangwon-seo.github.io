@@ -3,17 +3,11 @@ layout: noheader
 title: Research Study on Teamwork
 permalink: /experiment
 ---
-# Hello! 
+# Thank you! 
 
-### Thank you for your interest in our research study on teamwork. This study is being conducted by [Human-Centered AI and Robotics Group](https://unhelkar.github.io/group/) at [Rice University](https://www.rice.edu/).
+### The research study on teamwork conducted by [Human-Centered AI and Robotics Group](https://unhelkar.github.io/group/) at [Rice University](https://www.rice.edu/) is currently closed. We will send the gift cards to the participants as soon as we hear back from Amazon. Once again, thank you so much for participating! 
 
-### If you have received your USER ID for this study, **[<br /><font size="6"> please click here to start the experiment (link).</font>](http://35.164.191.72/)** 
-### You should not share your USER ID with anyone else, since only one experiment session can be completed per ID.
-
-<br />
-
-### If you do not have a USER ID, please read the announcement below and contact us by <sangwon.seo@rice.edu>, we would really appreciate it!
-
+</br>
 
 ==================================================
 ## Seeking Participants for a Web-based Research Study on Teamwork
