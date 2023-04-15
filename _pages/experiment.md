@@ -7,7 +7,7 @@ permalink: /experiment
 
 ### The research study on teamwork conducted by [Human-Centered AI and Robotics Group](https://unhelkar.github.io/group/) at [Rice University](https://www.rice.edu/) is currently closed. We will send the gift cards to the participants as soon as we hear back from Amazon. Once again, thank you so much for participating! 
 
-</br>
+<br />
 
 ==================================================
 ## Seeking Participants for a Web-based Research Study on Teamwork
