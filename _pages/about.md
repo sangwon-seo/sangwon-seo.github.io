@@ -4,13 +4,13 @@ title: About
 permalink: /
 ---
 ### Hello!
-I am a Ph.D student in [Computer Science](https://cs.rice.edu/) working with [Dr. Vaibhav Unhelkar](https://profiles.rice.edu/faculty/vaibhav-unhelkar). I received M.S. degree in Bioengineering and B.S. degree in Electrical and Computer Engineering from [Seoul National University](https://en.snu.ac.kr/), South Korea. Before joining [Rice University](https://www.rice.edu/), I worked as a research engineer at [Coreline Soft](https://www.corelinesoft.com/en/) - a medical software startup - and [Agency for Defense Development](https://www.add.re.kr/eps) - a national research institute - in South Korea. 
+I am a Ph.D. student in [Computer Science](https://cs.rice.edu/), currently working with [Dr. Vaibhav Unhelkar](https://profiles.rice.edu/faculty/vaibhav-unhelkar). I received my M.S. degree in Bioengineering and my B.S. degree in Electrical and Computer Engineering from [Seoul National University](https://en.snu.ac.kr/), South Korea. Prior to joining [Rice University](https://www.rice.edu/), I worked as a research engineer at [Coreline Soft](https://www.corelinesoft.com/en/) - a medical AI startup - and [the Agency for Defense Development](https://www.add.re.kr/eps) - a national research institute - in South Korea. 
 
-My current research focus is on improving human-AI teaming with computational and learning-based approaches.
-Technically, I am interested in:
-- modeling human behavior to develop more human-centric AI agents; 
-- leveraging human knowledge in machine learning to be able to train models on small data; and 
-- complementing AI and human intelligence to enhance human-human and human-AI teamwork.
+My current research focuses on improving human-AI collaboration through computational and learning-based approaches.
+Specifically, I am interested in:
+- Modeling human behavior to develop more human-centric AI agents; 
+- Leveraging human knowledge in machine learning to enable training with limited data; and 
+- Complementing AI and human intelligence to enhance human-human and human-AI teamwork.
 
 ### Selected Publications
 **Sangwon Seo**, Bing Han, and Vaibhav V. Unhelkar,
