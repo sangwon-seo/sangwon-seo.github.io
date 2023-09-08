@@ -1,5 +1,6 @@
 - name: CV
-  link: https://www.overleaf.com/read/srgdswvrdnht
-  newtab: true
+  # link: https://www.overleaf.com/read/srgdswvrdnht
+  link: /cv
+  # newtab: true
 - name: Posts
   link: /posts
