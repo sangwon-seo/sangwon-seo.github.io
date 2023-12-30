@@ -13,6 +13,14 @@ Specifically, I am interested in:
 - Complementing AI and human intelligence to enhance human-human and human-AI teamwork.
 
 ### Selected Publications
+**Sangwon Seo** and Vaibhav V. Unhelkar,
+"IDIL: Imitation Learning of Intent-Driven Expert Behavior",
+*AAMAS 2024* [To appear]
+
+**Sangwon Seo**,
+"AI-Assisted Human Teamwork",
+*AAAI 2024 Doctoral Consortium* [To appear]
+
 **Sangwon Seo**, Bing Han, and Vaibhav V. Unhelkar,
 ["Automated Task-Time Interventions to Improve Teamwork using Imitation Learning"](https://arxiv.org/abs/2303.00413),
 *AAMAS 2023*
