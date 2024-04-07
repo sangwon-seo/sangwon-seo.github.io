@@ -18,8 +18,8 @@ Specifically, I am interested in:
 *AAMAS 2024* [To appear]
 
 **Sangwon Seo**,
-["AI-Assisted Human Teamwork"](https://unhelkar.github.io/group/assets/pdf/papers/2024-Seo-AAAI-DC.pdf),
-*AAAI 2024 Doctoral Consortium* [To appear]
+["AI-Assisted Human Teamwork"](https://ojs.aaai.org/index.php/AAAI/article/view/30408),
+*AAAI 2024 Doctoral Consortium*
 
 **Sangwon Seo**, Bing Han, and Vaibhav V. Unhelkar,
 ["Automated Task-Time Interventions to Improve Teamwork using Imitation Learning"](https://arxiv.org/abs/2303.00413),
