@@ -14,8 +14,8 @@ Specifically, I am interested in:
 
 ### Selected Publications
 **Sangwon Seo** and Vaibhav V. Unhelkar,
-["IDIL: Imitation Learning of Intent-Driven Expert Behavior"](https://sangwonseo.com/assets/AAMAS2024_Seo.pdf),
-*AAMAS 2024* [To appear]
+["IDIL: Imitation Learning of Intent-Driven Expert Behavior"](https://arxiv.org/abs/2404.16989),
+*AAMAS 2024*
 
 **Sangwon Seo**,
 ["AI-Assisted Human Teamwork"](https://ojs.aaai.org/index.php/AAAI/article/view/30408),
