@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 ### Hello!
-I am a Ph.D. student in [Computer Science](https://cs.rice.edu/), currently working with [Dr. Vaibhav Unhelkar](https://profiles.rice.edu/faculty/vaibhav-unhelkar). I received my M.S. degree in Bioengineering and my B.S. degree in Electrical and Computer Engineering from [Seoul National University](https://en.snu.ac.kr/), South Korea. Prior to joining [Rice University](https://www.rice.edu/), I worked as a research engineer at [Coreline Soft](https://www.corelinesoft.com/en/) - a medical AI startup - and [the Agency for Defense Development](https://www.add.re.kr/eps) - a national research institute - in South Korea. 
+I am a Ph.D. student in [Computer Science](https://cs.rice.edu/) at Rice University, TX, USA, working with [Dr. Vaibhav Unhelkar](https://unhelkar.github.io/). I recieved my M.S. and B.S. degrees from [Seoul National University](https://en.snu.ac.kr/), South Korea. Prior to joining [Rice University](https://www.rice.edu/), I worked as a research engineer at [Coreline Soft](https://www.corelinesoft.com/en/) - a medical AI startup - and [the Agency for Defense Development](https://www.add.re.kr/eps) - a national research institute - in South Korea. 
 
 My research centers on **Human-Robot Collaboration**, **Human-Centered AI** and **Human Behavior Modeling**.
 Specifically, I am interested in:
