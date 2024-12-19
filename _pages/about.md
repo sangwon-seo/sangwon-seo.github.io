@@ -14,23 +14,31 @@ Specifically, I am interested in:
 
 ### Selected Publications
 **Sangwon Seo** and Vaibhav V. Unhelkar,
-["IDIL: Imitation Learning of Intent-Driven Expert Behavior"](https://arxiv.org/abs/2404.16989),
+"Hierarchical Imitation Learning of Team Behavior from Heterogeneous Demonstrations,"
+*AAMAS 2025 (to appear)*
+
+**Sangwon Seo**, Bing Han, Rayan E. Harari, Roger D. Dias, Marco A. Zenati, Eduardo Salas, and Vaibhav V. Unhelkar,
+"Socratic: Enhancing Human Teamwork via AI-enabled Coaching,"
+*AAMAS 2025 (to appear)*
+
+**Sangwon Seo** and Vaibhav V. Unhelkar,
+["IDIL: Imitation Learning of Intent-Driven Expert Behavior,"](https://arxiv.org/abs/2404.16989)
 *AAMAS 2024*
 
 **Sangwon Seo**,
-["AI-Assisted Human Teamwork"](https://ojs.aaai.org/index.php/AAAI/article/view/30408),
+["AI-Assisted Human Teamwork,"](https://ojs.aaai.org/index.php/AAAI/article/view/30408)
 *AAAI 2024 Doctoral Consortium*
 
 **Sangwon Seo**, Bing Han, and Vaibhav V. Unhelkar,
-["Automated Task-Time Interventions to Improve Teamwork using Imitation Learning"](https://arxiv.org/abs/2303.00413),
+["Automated Task-Time Interventions to Improve Teamwork using Imitation Learning,"](https://arxiv.org/abs/2303.00413)
 *AAMAS 2023*
 
 **Sangwon Seo** and Vaibhav V. Unhelkar,
-["Semi-Supervised Imitation Learning of Team Policies from Suboptimal Demonstrations"](https://arxiv.org/abs/2205.02959),
+["Semi-Supervised Imitation Learning of Team Policies from Suboptimal Demonstrations,"](https://arxiv.org/abs/2205.02959)
 *IJCAI 2022*
 
 **Sangwon Seo**, Lauren R. Kennedy-Metz, Marco A. Zenati, Julie A. Shah, Roger D. Dias, and Vaibhav V. Unhelkar,
-[“Towards an AI coach to infer team mental model alignment in healthcare”](https://ieeexplore.ieee.org/document/9475925),
+[“Towards an AI coach to infer team mental model alignment in healthcare,”](https://ieeexplore.ieee.org/document/9475925)
 *CogSIMA 2021*
 
 
