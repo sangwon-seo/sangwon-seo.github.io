@@ -14,12 +14,12 @@ Specifically, I am interested in:
 
 ### Selected Publications
 **Sangwon Seo** and Vaibhav V. Unhelkar,
-"Hierarchical Imitation Learning of Team Behavior from Heterogeneous Demonstrations,"
-*AAMAS 2025 (to appear)*
+["Hierarchical Imitation Learning of Team Behavior from Heterogeneous Demonstrations,"](https://arxiv.org/abs/2502.17618)
+*AAMAS 2025*
 
 **Sangwon Seo**, Bing Han, Rayan E. Harari, Roger D. Dias, Marco A. Zenati, Eduardo Salas, and Vaibhav V. Unhelkar,
-"Socratic: Enhancing Human Teamwork via AI-enabled Coaching,"
-*AAMAS 2025 (to appear)*
+["Socratic: Enhancing Human Teamwork via AI-enabled Coaching,"](https://arxiv.org/abs/2502.17643)
+*AAMAS 2025*
 
 **Sangwon Seo** and Vaibhav V. Unhelkar,
 ["IDIL: Imitation Learning of Intent-Driven Expert Behavior,"](https://arxiv.org/abs/2404.16989)
