@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Virtual Poster: AI-Assisted Human Teamwork"
-date:   2024-02-29 14:49:20 -0600
+date:   2024-02-29 12:00:00 -0600
 categories: research
 ---
 

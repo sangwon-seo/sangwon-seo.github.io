@@ -1,9 +1,9 @@
 # Sangwon's webpage
-My webpage is based on [Jekyll](https://jekyllrb.com/). 
-Please refer to [Installation Guide](https://jekyllrb.com/docs/installation/) to develop and maintain this code.
-I only tested this setup with Ubuntu 20.04.
+This site is built with [Jekyll](https://jekyllrb.com/). 
+For installation details, see the [official guide](https://jekyllrb.com/docs/installation/).
+Tested environment: **Ubuntu 20.04**.
 
-## Installation
-
-
+## Running Locally
+To run the site locally, execute:
+```bundle exec jekyll serve```
 

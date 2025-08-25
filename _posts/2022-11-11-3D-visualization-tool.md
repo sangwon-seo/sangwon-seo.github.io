@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3D visualization tool for Intel RealSense Depth Camera"
-date:   2022-11-11 14:49:20 -0600
+date:   2022-11-11 12:00:00 -0600
 categories: research
 ---
 
