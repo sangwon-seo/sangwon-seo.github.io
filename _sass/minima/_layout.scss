@@ -294,3 +294,27 @@
   padding-left: 0;
   }
 }
+
+
+
+/**
+ * CV
+ */
+.cv-embed {
+  width: 100%;
+  height: 80vh;  /* explicit height is safer than min-height */
+}
+
+.cv-download {
+  display: none;   /* hide download link on desktop */
+}
+
+/* On small screens, hide the embed and just show the link */
+@media (max-width: 768px) {
+  .cv-embed {
+    display: none;
+  }
+  .cv-download {
+    display: block;
+  }
+}
