@@ -4,8 +4,7 @@ title: About
 permalink: /
 ---
 ### Hello!
-I am a software engineer at [Google, USA](https://about.google/), where I work on AI/ML models to optimize user satisfaction in search ads.
-I obtained my Ph.D. in [Computer Science](https://cs.rice.edu/) from Rice University, TX, USA, where I was advised by [Dr. Vaibhav Unhelkar](https://unhelkar.github.io/). Prior to my Ph.D., I worked as a research engineer at [Coreline Soft](https://www.corelinesoft.com/en/) - a medical AI startup - and the [Agency for Defense Development](https://www.add.re.kr/eps) - a national research institute - in South Korea. I received my M.S. and B.S. degrees from [Seoul National University](https://en.snu.ac.kr/), South Korea. 
+I am a Software Engineer at [Google, USA](https://about.google/), developing AI/ML models to optimize user satisfaction in search ads. I hold a Ph.D. in [Computer Science](https://cs.rice.edu/) from Rice University, USA, where I was advised by [Dr. Vaibhav Unhelkar](https://unhelkar.github.io/). Prior to my Ph.D., I worked as a research engineer at [Coreline Soft](https://www.corelinesoft.com/en/) - a medical AI startup - and the [Agency for Defense Development](https://www.add.re.kr/eps) - a national research institute - in South Korea. I received my M.S. and B.S. degrees from [Seoul National University](https://en.snu.ac.kr/), South Korea. 
 
 My research centers on **Human Behavior Modeling**, **Human-Agent Collaboration**, **Theory of Mind** and **AI-Assisted Decision Making**.
 During my PhD, I developed *imitation and reinforcement learning algorithms* for modeling multimodal human behaviors, as well as an *AI-driven team coaching system* that automatically analyzes and improves human teamwork in real time. 
