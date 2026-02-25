@@ -10,9 +10,10 @@ My research centers on **Human Behavior Modeling**, **Human-Agent Collaboration*
 During my PhD, I developed *imitation and reinforcement learning algorithms* for modeling multimodal human behaviors, as well as an *AI-driven team coaching system* that automatically analyzes and improves human teamwork in real time. 
 
 ### Selected Publications
-**Sangwon Seo** and Vaibhav V. Unhelkar,
-["Hierarchical Imitation Learning of Team Behavior from Heterogeneous Demonstrations,"](https://arxiv.org/abs/2502.17618)
-*AAMAS 2025*
+Zhiqin Qian, Ryan Diaz, **Sangwon Seo** and Vaibhav V. Unhelkar,
+["Hierarchical Reward Design from Language: Enhancing Alignment of Agent Behavior with Human Specifications
+,"](https://arxiv.org/abs/2602.18582)
+*AAMAS 2026*
 
 **Sangwon Seo**, Bing Han, Rayan E. Harari, Roger D. Dias, Marco A. Zenati, Eduardo Salas, and Vaibhav V. Unhelkar,
 ["Socratic: Enhancing Human Teamwork via AI-enabled Coaching,"](https://arxiv.org/abs/2502.17643)
@@ -21,14 +22,6 @@ During my PhD, I developed *imitation and reinforcement learning algorithms* for
 **Sangwon Seo** and Vaibhav V. Unhelkar,
 ["IDIL: Imitation Learning of Intent-Driven Expert Behavior,"](https://arxiv.org/abs/2404.16989)
 *AAMAS 2024*
-
-**Sangwon Seo**,
-["AI-Assisted Human Teamwork,"](https://ojs.aaai.org/index.php/AAAI/article/view/30408)
-*AAAI 2024 Doctoral Consortium*
-
-**Sangwon Seo**, Bing Han, and Vaibhav V. Unhelkar,
-["Automated Task-Time Interventions to Improve Teamwork using Imitation Learning,"](https://arxiv.org/abs/2303.00413)
-*AAMAS 2023*
 
 **Sangwon Seo** and Vaibhav V. Unhelkar,
 ["Semi-Supervised Imitation Learning of Team Policies from Suboptimal Demonstrations,"](https://arxiv.org/abs/2205.02959)
